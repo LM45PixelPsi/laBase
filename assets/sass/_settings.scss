@@ -1,0 +1,22 @@
+* {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+  font-family: $f1, sans-serif;
+  text-decoration: none;
+  scroll-behavior: smooth;
+
+  a {
+    cursor: pointer;
+  }
+
+  a:visited {
+    color: inherit;
+  }
+}
+
+body {
+  background: #000;
+}
