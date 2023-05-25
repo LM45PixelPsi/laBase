@@ -4,7 +4,6 @@
   padding: 0;
   outline: none;
   box-sizing: border-box;
-  font-family: $f1, sans-serif;
   text-decoration: none;
   scroll-behavior: smooth;
 
@@ -15,8 +14,4 @@
   a:visited {
     color: inherit;
   }
-}
-
-body {
-  background: #000;
 }
