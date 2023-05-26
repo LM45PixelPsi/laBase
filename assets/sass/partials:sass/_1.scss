@@ -1,3 +1,21 @@
 body {
   background: #180d2d;
 }
+.container {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-flow: column;
+  background: #7580de;
+  width: 100vw;
+  height: 80vw;
+
+  .svg-container {
+    background: #c95555;
+    width: var(--psi2p);
+    border-radius: 1rem;
+    svg {
+      fill: rgb(232, 122, 122);
+    }
+  }
+}
