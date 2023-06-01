@@ -12,33 +12,4 @@
 }
 * a:visited {
   color: inherit;
-}
-
-body {
-  background: #180d2d;
-}
-
-.container {
-  display: flex;
-  align-items: center;
-  gap: 1rem;
-  flex-flow: column;
-  background: #7580de;
-  width: 100vw;
-  height: 100vh;
-}
-.container .svg-container {
-  background: #c95555;
-  width: var(--psi2p);
-  border-radius: 1rem;
-  border: 0.2057852303vw black solid;
-}
-.container .svg-container svg {
-  fill: rgb(232, 122, 122);
-}
-
-.coucou {
-  background: #000;
-  height: 50vh;
-  width: 2.5850683349%;
 }/*# sourceMappingURL=main.css.map */
